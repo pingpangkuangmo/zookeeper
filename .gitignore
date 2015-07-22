@@ -4,6 +4,7 @@
 .revision/
 .settings/
 build/
+conf/zoo.cfg
 src/c/generated/
 src/java/generated/
 src/java/lib/ant-eclipse-*
